@@ -1,2 +1,2 @@
 # IMAC-WORRIOR
-A Role Playing Game programmed with Java .
+Dans le l'objectif de réaliser un jeu avec des composants aléatoires dont nous pouvons maitriser les paramètres, nous avons pris la décision de concevoir un Role Playing Game (RPG) basé sur le texte. Inspiré de Zork, le précurseur du RPG sur machine, lui-même inspiré des RPG papier et des livres dont vous êtes le héros. Notre Jeu, IMAC WARRIOR, fais parcourir au joueur un donjon dont les salles, les ennemis, les objets et même ses propre stats sont générésaléatoirement grâce à 5 composants aléatoires. Composants aléatoires dont les paramètres sont choisis par le joueur via 3 niveaux de difficulté mais aussi en cour de jeu lorsque le joueur décide de ramasser un objet ou non.
